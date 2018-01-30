@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DayNightOne</string>
+    <string name="changge_to_night">切换成夜间模式</string>
+    <string name="changge_to_day">切换成日间模式</string>
+</resources>
